@@ -1,0 +1,9 @@
+{
+    "mssql_localhost": {
+        "host": "localhost",
+        "database_name": "WorldWideImporters",
+        "port_number": "",
+        "user_name": "sa",
+        "password": "skeleT10!"
+    }
+}
